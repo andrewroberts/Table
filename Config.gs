@@ -22,7 +22,7 @@
 // =============
 
 var SCRIPT_NAME_ = "Table"
-var SCRIPT_VERSION_ = "v1.0 (Dev)"
+var SCRIPT_VERSION_ = "v1.0"
 
 var PRODUCTION_VERSION_ = false
 
